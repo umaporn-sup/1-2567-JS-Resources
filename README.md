@@ -9,7 +9,7 @@
 
 - (week#2-3) _`Types, Values, and Variables`_
 
-  - [git repo]
+  - [_Practice Solution_](https://github.com/umaporn-sup/week2-practices-solution.git)
   - References
     - [Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types)
     - [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
