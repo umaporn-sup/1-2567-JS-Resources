@@ -20,7 +20,7 @@
 
 - (week#3-4) _`Expression, Operators, and Control Structures`_
 
-  - [git repo]
+  - [_Practice Solution_](https://github.com/umaporn-sup/week3-practices-solution.git)
   - References
     - [Expression and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
     - [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
