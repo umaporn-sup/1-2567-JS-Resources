@@ -7,7 +7,7 @@
   - References
     - [JavaScript Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- (week#2-3) _`Types, Values, and Variables`_
+- (week#2) _`Types, Values, and Variables`_
 
   - [_Practice Solution_](https://github.com/umaporn-sup/week2-practices-solution.git)
   - References
@@ -18,7 +18,7 @@
     - [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
     - [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
-- (week#3-4) _`Expression, Operators, and Control Structures`_
+- (week#3) _`Expression, Operators, and Control Structures`_
 
   - [_Practice Solution_](https://github.com/umaporn-sup/week3-practices-solution.git)
   - References
@@ -33,26 +33,23 @@
       - [for...in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
       - [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
-- (week#4-5) _`Basic Arrays and Functions`_
+- (week#4) _`Basic Arrays and Functions`_
 
+  - [_Practice Solution_]
   - _`Basic Arrays`_
 
-    - [git repo]
     - References
       - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
       - [Spread in array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_array_literals)
       - [Array Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#array_destructuring)
 
   - _`Basic Functions`_
-    - [git repo]
     - References
       - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
-- (week#6) Exam#1
+- (week#5, 7) _`Objects`_
 
-- (week#7) _`Objects`_
-
-  - [git repo]
+  - [_Practice Solution_]
   - References
     - [Introduction JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
     - [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
@@ -60,15 +57,17 @@
     - [Object Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring)
     - [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
-- (week#8-9) _`Array Methods`_
+- (week#6) Exam#1
 
-  - [git repo]
+- (week#8) _`Array Methods`_
+
+  - [_Practice Solution_]
   - References
     - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
 
 - (week#9-10) _`Working with Objects, Arrays, and Functions`_
 
-  - [git repo]
+  - [_Practice Solution_]
   - References
     - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
     - [Function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
@@ -81,7 +80,7 @@
 
 - (week#11) _`JavaScript Modules`_
 
-  - [git repo]
+  - [_Practice Solution_]
   - References
     - [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
     - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
@@ -91,20 +90,20 @@
 
 - (week#13-14) _`Document Object Model (DOM)`_
 
-  - [git repo]
+  - [_Practice Solution_]
   - Reference
     - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 - (week#15) _`Events`_
 
-  - [git repo]
+  - [_Practice Solution_]
   - References
     - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
     - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
 - (week#16) _`Client Side Storages`_
 
-  - [git repo]
+  - [_Practice Solution_]
   - References
     - [Client Storages](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
     - [Cookies](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
