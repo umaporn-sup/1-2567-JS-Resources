@@ -35,7 +35,7 @@
 
 - (week#4) _`Basic Arrays and Functions`_
 
-  - [_Practice Solution_]
+  - [_Practice Solution_](https://github.com/umaporn-sup/week4-practices-solution.git)
   - _`Basic Arrays`_
 
     - References
