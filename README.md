@@ -1,4 +1,4 @@
-# 1-25667-INT201-js-resources
+# 1-2567-INT201-js-resources
 
 ## Resources and Source Codes
 
