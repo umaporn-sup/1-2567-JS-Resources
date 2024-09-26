@@ -49,7 +49,7 @@
 
 - (week#5, 7) _`Objects`_
 
-  - [_Practice Solution_]
+  - [_Practice Solution_](https://github.com/umaporn-sup/week5-7-practices-solution.git)
   - References
     - [Introduction JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
     - [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
