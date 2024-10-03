@@ -61,7 +61,7 @@
 
 - (week#8) _`Array Methods`_
 
-  - [_Practice Solution_]
+  - [_Practice Solution_](https://github.com/umaporn-sup/week8-practices-solution.git)
   - References
     - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
 
@@ -78,7 +78,7 @@
     - [Rest Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
     - [Spread in Function Calls](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_function_calls)
 
-- (week#11) _`JavaScript Modules`_
+- (week#10) _`JavaScript Modules`_
 
   - [_Practice Solution_]
   - References
