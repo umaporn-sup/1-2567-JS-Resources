@@ -65,9 +65,9 @@
   - References
     - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
 
-- (week#9-10) _`Working with Objects, Arrays, and Functions`_
+- (week#9-10) _`Working with Functions`_
 
-  - [_Practice Solution_]
+  - [_Practice Solution_](https://github.com/umaporn-sup/week9-practices-solution.git)
   - References
     - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
     - [Function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
