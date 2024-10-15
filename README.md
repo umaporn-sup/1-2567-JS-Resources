@@ -78,13 +78,12 @@
     - [Rest Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
     - [Spread in Function Calls](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_function_calls)
 
-- (week#10) _`JavaScript Modules`_
-
-  - [_Practice Solution_]
+- (week#11) _`JavaScript Modules`_
   - References
     - [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
     - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
     - [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
+- [_Todo Management Solution_](https://github.com/umaporn-sup/TodoManagement.git)
 
 - (week#12) Exam#2
 
