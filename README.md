@@ -89,7 +89,7 @@
 
 - (week#13-14) _`Document Object Model (DOM)`_
 
-  - [_Practice Solution_]
+  - [_todo solution_] https://github.com/umaporn-sup/todo-dom-sol.git
   - Reference
     - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
