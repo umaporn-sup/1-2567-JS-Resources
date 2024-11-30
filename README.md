@@ -83,36 +83,35 @@
     - [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
     - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
     - [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
-- [_Todo Management Solution_](https://github.com/umaporn-sup/TodoManagement.git)
+- [_[Solution] Todo Management_](https://github.com/umaporn-sup/TodoManagement.git)
 
 - (week#12) Exam#2
 
 - (week#13-14) _`Document Object Model (DOM)`_
 
-  - [_todo solution_](https://github.com/umaporn-sup/todo-dom-sol.git)
+  - [_[Solution] (DOM) todo application_](https://github.com/umaporn-sup/todo-dom-sol.git)
   - Reference
     - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 - (week#15) _`Events`_
 
-  - [_Practice Solution_]
   - References
-    - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-    - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+  - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+  - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
 - (week#16) _`Client Side Storages`_
 
-  - [_Practice Solution_]
   - References
-    - [Client Storages](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
-    - [Cookies](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
-    - [Web Storages](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+  - [Client Storages](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+  - [Cookies](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
+  - [Web Storages](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 
 - Read More: _`Asynchronous JavaScript`_
 
   - References
     - [Asynchronous](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 
+- [_[Solution] todo application_](https://github.com/umaporn-sup/todo-app.git)
 - (week#17) Exam#3
 
   <hr/>
